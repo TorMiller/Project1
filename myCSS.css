@@ -1,0 +1,28 @@
+h1{
+  font-size: 65px;
+  font-family: Thasadith;
+  color: #b19edb;
+}
+body{
+    width: 550px;
+    color: #073763;
+    font-size: 16px;
+    text-align: left;
+}
+h3{
+  font-size: 25px;
+  font-family: "Scope One";
+  text-align: left;
+  color: #073763;
+}
+a{
+  color: #a4c2f4;
+  text-decoration: none;
+}
+a:hover{
+  color: #ead1dc;
+  text-decoration: underline;
+}
+h4{
+  text-align: left;
+}
